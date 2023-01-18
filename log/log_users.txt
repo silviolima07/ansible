@@ -1,0 +1,4 @@
+Criando usuario: amelia.penteado do Grupo: LinuxAdmin com Senha temporaria: MeMuda123456!
+Criando usuario: astolfo.cerveira do Grupo: CloudAdmin com Senha temporaria: MeMuda123456!
+Criando usuario: alda.lage do Grupo: CloudAdmin com Senha temporaria: MeMuda123456!
+Criando usuario: bras.vides do Grupo: DBA com Senha temporaria: MeMuda123456!
