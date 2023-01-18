@@ -1,5 +1,4 @@
 # ansible
-## Aprender mais:
 Learning more:
 - https://docs.ansible.com/ansible/latest/collections/ansible/builtin/shell_module.html
 - https://dev.to/aws-builders/chapter-1-introduction-oe7
