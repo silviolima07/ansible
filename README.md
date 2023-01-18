@@ -6,3 +6,5 @@ Learning more:
 - https://jeromedecoster.github.io/aws/ec2-ansible-aws-cli/
 
 
+# No comand line do Linux:
+>$ ansible-playbook -i hosts.yml iam_users.yml
