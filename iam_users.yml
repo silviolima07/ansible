@@ -1,0 +1,7 @@
+  - name: iam - create users
+    hosts: localhost
+    connection: local
+    gather_facts: no
+    tasks:
+    - name: Execute script shell
+      ansible.builtin.shell: aws-iam-create-user.sh usuarios4.csv >> log_users.txt
